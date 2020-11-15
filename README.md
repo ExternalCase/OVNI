@@ -1,7 +1,7 @@
 # OVNI
 Herramienta para sacar datos de una dirección IP
-- se requiere w3m
-- se requiere wget
+- apt install w3m
+- apt install wget
 
 # Instalación
 - git clone https://github.com/Monkey-hk4/OVNI
