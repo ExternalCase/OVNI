@@ -1,4 +1,4 @@
-![sh](https://i.postimg.cc/D0vxhs8H/ovni.jpg)
+![sh](https://i.postimg.cc/1z3p1ZRC/IMG-20201217-214748.jpg)
 
 # OVNI
 Herramienta para sacar datos de una dirección IP
