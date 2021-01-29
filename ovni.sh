@@ -1,6 +1,8 @@
 #!/bin/bash
 restartprogram() {
-echo "Esa Opción es incorrecta, elije de nuevo !"
+echo "
+Esa Opción es incorrecta, elije de nuevo !
+Elige entre el [ 1-2-3 ]"
 sleep 2
 clear
 menuoption
@@ -49,13 +51,8 @@ echo -e "\e[1;30m  █▀█▀█ █▀██ █▀█ █▄█▄█       
 echo -e "\e[1;30m  █▀█▀█ █▀████▀█ █▄█▄█    ── ▄▄─── ▐▌ \e[0m" "\e[1;31m    +       ░░░         \e[0m"
 echo -e "\e[1;30m  █▀█▀█ █▀████▀█ █▄█▄█ ▌██▐▌▐█▐▐▌█▌█▌█▌▌\e[0m" "\e[1;31m  +       ░░░         \e[0m"
 echo -e ""	
-echo -e "\e[35m+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+         \e[0m"
-echo -e "\e[36m|   Proyecto de : Monkey-hk4 oficial..                 |        \e[0m"
-echo -e "\e[1;32m+   Github : Monkey-hk4                                +      \e[0m"   
-echo -e "\e[36m|   Instagram : monkey_hk4                             |        \e[0m"
-echo -e "\e[1;32m+   Blogg : https://latiendademonkey.blogspot.com/     +      \e[0m"
-echo -e "\e[35m|\e[0m" "\e[1;37m                   () \/ |\| |\e[0m"           "\e[35m                      |        \e[0m"
-echo -e "\e[35m+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+         \e[0m" 
+echo -e "\e[1;36m  +             *           +              *           +                 "
+echo -e "\e[1;37m                 Proyect by : @Monkey-hk4\e[0m                      "
 echo -e ""
 }
 
@@ -129,6 +126,8 @@ menuoption() {
 	echo -e "\e[1;34m[2]\e[0m" "\e[36mInformación de una IP\e[0m"
 	echo -e "\e[1;34m[3]\e[0m" "\e[1;31mSalir de OVNI\e[0m"
     echo -e "\e[1;32m"
+	echo -e "Elige entre el [1-2-3]"
+	echo -e ""
 	read -p "[+]~$ " get
 	if [ $get -eq 1 ];
 		then
