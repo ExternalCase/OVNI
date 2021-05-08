@@ -5,10 +5,11 @@ Herramienta para sacar datos de una dirección IP
 - Datos de una dirección ip 
 
 # Requisitos
- En caso de linux
+# En caso de linux
 - apt install w3m
 - apt install wget
- En caso de termux
+# En caso de termux
+- pkg install git
 - pkg install w3m
 - pkg install wget
 
