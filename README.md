@@ -1,5 +1,8 @@
-# OVNI
-Herramienta para sacar datos de una dirección IP
+![sh](https://github.com/Monkey-hk4/OVNI/blob/main/ovni_foto_original.PNG)
+
+# OVNI 
+Herramienta que sirve para sacar datos a una dirección IP
+
 # Opciones
 - Datos de mi dirección ip
 - Datos de una dirección ip 
@@ -19,6 +22,4 @@ Herramienta para sacar datos de una dirección IP
 - chmod +x ovni
 - bash ovni.sh
 
-# Foto original
 
-![sh](https://i.postimg.cc/1z3p1ZRC/IMG-20201217-214748.jpg)
