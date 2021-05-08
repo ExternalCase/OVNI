@@ -1,7 +1,16 @@
 # OVNI
 Herramienta para sacar datos de una dirección IP
+# Opciones
+- Datos de mi dirección ip
+- Datos de una dirección ip 
+
+# Requisitos
+. En caso de linux
 - apt install w3m
 - apt install wget
+. En caso de termux
+- pkg install w3m
+- pkg install wget
 
 # Instalación
 - git clone https://github.com/Monkey-hk4/OVNI
