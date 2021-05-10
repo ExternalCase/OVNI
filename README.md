@@ -9,17 +9,15 @@ Herramienta que sirve para sacar datos a una dirección IP
 
 # Requisitos
 # En caso de linux
-- apt install w3m
-- apt install wget
+* `apt install w3m`
+* `apt install wget`
 # En caso de termux
-- pkg install git
-- pkg install w3m
-- pkg install wget
+* `pkg install git`
+* `pkg install w3m`
+* `pkg install wget`
 
 # Instalación
-- git clone https://github.com/Monkey-hk4/OVNI
-- cd OVNI
-- chmod +x ovni
-- bash ovni.sh
-
-
+* `git clone https://github.com/Monkey-hk4/OVNI`
+* `cd OVNI`
+* `chmod +x ovni`
+* `bash ovni.sh`
