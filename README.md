@@ -21,3 +21,8 @@ Herramienta que sirve para sacar datos a una dirección IP
 * `cd OVNI`
 * `chmod +x ovni`
 * `bash ovni.sh`
+
+
+# Mis redes Sociales
+- [`Instagram`](https://www.instagram.com/monkey_hk4/)
+- [`Youtube`](https://www.youtube.com/channel/UCEWGSsk-U9GjCLQk9ng1fNQ)
