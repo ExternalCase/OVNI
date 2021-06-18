@@ -7,14 +7,8 @@ Herramienta que sirve para sacar datos a una dirección IP
 - Datos de mi dirección ip
 - Datos de una dirección ip 
 
-# Requisitos
-# En caso de linux
-* `apt install w3m`
-* `apt install wget`
-# En caso de termux
-* `pkg install git`
-* `pkg install w3m`
-* `pkg install wget`
+# Versión Anterior
+Descargar versión 2.0 [`OVNI`](https://github.com/Monkey-hk4/OVNI/releases/tag/v2.0)
 
 # Instalación
 * `git clone https://github.com/Monkey-hk4/OVNI`
@@ -22,6 +16,8 @@ Herramienta que sirve para sacar datos a una dirección IP
 * `chmod +x OVNI`
 * `bash ovni.sh`
 
+# Foto de OVNI en termux
+![sh](https://github.com/Monkey-hk4/OVNI/blob/main/fotos/ufo1.jpg)
 
 # Mis redes Sociales
 - [`Instagram`](https://www.instagram.com/monkey_hk4/)
