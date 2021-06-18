@@ -1,4 +1,4 @@
-![sh](https://github.com/Monkey-hk4/OVNI/blob/main/fotos/ovni_foto_original.png)
+![sh](https://github.com/Monkey-hk4/OVNI/blob/main/fotos/ufo2.jpg)
 
 # OVNI 
 Herramienta que sirve para sacar datos a una dirección IP
