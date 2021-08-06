@@ -13,7 +13,6 @@ Descargar versión 2.0 [`OVNI`](https://github.com/Monkey-hk4/OVNI/releases/tag/
 # Instalación
 * `git clone https://github.com/Monkey-hk4/OVNI`
 * `cd OVNI`
-* `chmod +x OVNI`
 * `bash ovni.sh`
 
 # Foto de OVNI en termux
