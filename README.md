@@ -14,7 +14,3 @@ Descargar versión 2.0 [`OVNI`](https://github.com/Monkey-hk4/OVNI/releases/tag/
 * `git clone https://github.com/Monkey-hk4/OVNI`
 * `cd OVNI`
 * `bash ovni.sh`
-
-# Mis redes Sociales
-- [`Instagram`](https://www.instagram.com/d4vid.0day/)
-- [`Youtube`](https://www.youtube.com/channel/UCEWGSsk-U9GjCLQk9ng1fNQ)
